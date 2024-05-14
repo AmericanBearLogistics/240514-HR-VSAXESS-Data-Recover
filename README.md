@@ -27,7 +27,8 @@ If you encounter any issues or have questions, feel free to open an issue in thi
 
 ## Contributors
 
-- [Your Name](link to your GitHub profile)
+- [canny.li]
+- [marina.wang]
 
 Your contributions to improve and expand this project are welcome!
 
