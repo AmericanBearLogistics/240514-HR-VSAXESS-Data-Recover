@@ -23,7 +23,7 @@ The project started at the end of April 2024 due to the admin desktop losing acc
 
 ## Issues
 
-If you encounter any issues or have questions, feel free to open an issue in this repository or email [it@americanbearlogistics.com]
+If you encounter any issues or have questions, feel free to open an issue in this repository or email it@americanbearlogistics.com
 
 ## Contributors
 
