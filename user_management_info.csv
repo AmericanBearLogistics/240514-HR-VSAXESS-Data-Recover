@@ -1,0 +1,147 @@
+EMP_ID,ORG,EMP_NAME,GENDER,CONTACT,EMAIL,EFFECTIVE_TIME,CURRENT_STATUS,EXPIRE_TIME,CARD_NUM
+1021,"Doors 1-3, SOMAC, Warehouse",Timothy Ye,1,Accounting,,4/10/2024,Y,5/14/2024,
+104,"Doors 1-3, SOMAC",Daniel Sandag,1,Accounting,,1/25/2024,Y,1/25/2027,11108046
+5,"Doors 1-3, SOMAC",Hannah,2,Accounting,,1/25/2024,Y,1/25/2027,14306203
+9,"Doors 1-3, SOMAC",Jean,2,Accounting,,1/25/2024,Y,1/25/2027,17600486
+299,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Michelle He,2,Admin,,1/25/2024,Y,1/25/2027,22065246
+2114,"Doors 1-3, SOMAC",Tatilla DeWeese,2,Admin,,5/15/2023,,5/14/2025,12162914
+17070,Doors 1-3,Andrew Weng,1,Air,,5/15/2023,,5/14/2024,
+6751,"Doors 1-3, SOMAC",Anudari Chuluunbaatar,1,Air,,1/25/2024,Y,1/25/2027,11063751
+41,"Doors 1-3, SOMAC, Warehouse",Cecilia Wong,2,Air,,1/25/2024,Y,1/25/2027,02504301
+80,"Doors 1-3, SOMAC, Warehouse",Claude Wu,1,Air,,1/25/2024,Y,1/25/2027,02321290
+6992,Doors 1-3,Emily Ruiz,2,Air,,1/25/2024,N,5/13/2024,
+6373,"Doors 1-3, SOMAC",Enkhzorig Nyamdorj,1,Air,,1/25/2024,Y,1/25/2027,12142379
+66,"Doors 1-3, SOMAC, Warehouse",Hayden,2,Air,,1/25/2024,Y,1/25/2027,11328271
+11,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Henry Liu,1,Air,,5/15/2023,Y,5/14/2026,12121135;14214540
+122,"Doors 1-3, SOMAC",Ivy Liu,2,Air,,3/15/2024,Y,3/15/2027,11132992
+17391,"Doors 1-3, SOMAC",Jiayi Kang,2,Air,,5/15/2023,N,5/13/2024,12217391
+18,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Michelle Mao,2,Air,,1/25/2024,Y,1/25/2027,22057860
+6870,"Doors 1-3, SOMAC",Nomin Bold,2,Air,,1/25/2024,Y,1/25/2027,11143870
+60601,"Doors 1-3, SOMAC",Siri P Mandali,2,Air,,1/25/2024,Y,1/25/2027,12229060
+6122,"Doors 1-3, SOMAC",TsungYang Wang,1,Air,,5/15/2023,,5/14/2025,12117122
+6060,"Doors 1-3, SOMAC",Yanheng Situ,1,Air,,1/25/2024,Y,1/25/2024,
+12,"Doors 1-3, SOMAC, Warehouse",Zijun Yu,1,Air,,1/25/2024,Y,1/25/2027,12207135
+17767,"Doors 1-3, SOMAC",Ashley Koo,2,Customs,,5/15/2023,Y,5/14/2026,12117767
+39,"Doors 1-3, SOMAC, Warehouse",Alexis Rincon,1,ECommerce,,5/15/2023,,5/14/2025,06206937
+17,Doors 1-3,Jason Zaragoza,1,ECommerce,,5/15/2023,Y,5/14/2026,12152166
+390,"Doors 1-3, SOMAC, Warehouse",Mingxi Xia,2,ECommerce,,5/15/2023,,5/14/2024,
+103,"Doors 1-3, SOMAC",Tian Sun,1,ECommerce,,3/6/2024,Y,3/6/2027,12005431
+6058,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Wen Liu,2,E-commerce,,5/15/2023,,5/14/2024,
+6677,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Canny Li,2,IT,,1/25/2024,Y,1/25/2027,22103677
+1060,"Doors 1-3, SOMAC",George Zhao,1,Ocean,,1/25/2024,Y,1/25/2027,12156717
+126,"Doors 1-3, SOMAC",Guangfu Lyu,2,Ocean,,4/10/2024,Y,4/10/2027,12036718
+68,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Hailey Park,2,Ocean,,1/25/2024,Y,1/25/2027,11341054
+2,"DeviceB, Doors 1-3, SOMAC, Warehouse",Helen Peng,2,Ocean,,1/25/2024,Y,1/25/2027,17626765
+4,"Doors 1-3, SOMAC, Warehouse",Irene Wu,2,Ocean,,1/25/2024,Y,1/25/2027,17554164
+6111,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Jason Liang,1,Ocean,,1/25/2024,Y,1/25/2027,11347061
+75,"Doors 1-3, SOMAC",Sarita Yang,2,Ocean,,3/6/2024,Y,3/6/2027,12211264
+56,"Doors 1-3, SOMAC",Wendy,2,Ocean,,1/25/2024,Y,1/25/2027,17558272
+6472,"Doors 1-3, SOMAC",Xiugen He,2,Ocean,,1/25/2024,Y,1/25/2027,11321472
+6,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Yuuki Xu,2,Ocean,,5/15/2023,,5/14/2025,14306236
+76,"Doors 1-3, Lunch Room",Chance Pon,1,Sales,,5/15/2023,,5/14/2025,02321293
+6607,"Doors 1-3, SOMAC",Erica Im,2,Sales,,5/15/2023,,5/14/2025,12160677
+6128,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Ana Laura,2,ShippingReceiving,,1/25/2024,N,5/13/2024,12123098
+1031,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Daisy Garcia,2,ShippingReceiving,,2/19/2024,N,5/13/2024,18102228
+1782,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Lesly Mora,2,ShippingReceiving,,5/15/2023,Y,5/14/2026,12213582
+7,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Monica,2,ShippingReceiving,,1/25/2024,Y,1/25/2027,14214507
+6908,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Patricia H. Villanueva,2,ShippingReceiving,,1/25/2024,Y,1/25/2027,12155908
+8,"Doors 1-3, SOMAC, Warehouse",Jason SOMAC,1,Somac,,5/15/2023,,5/14/2025,17604042
+10,"Doors 1-3, SOMAC, Warehouse",Mike SOMAC,1,Somac,,5/15/2023,,5/14/2025,17601184
+1050,Warehouse,Temp wh10,2,Visitor,,5/15/2023,,5/14/2025,12223756
+1043,Warehouse,Temp wh4,2,Visitor,,5/15/2023,,5/14/2025,12126599
+1045,Warehouse,Temp wh6,2,Visitor,,5/15/2023,,5/14/2025,12232862
+1046,Warehouse,Temp wh7,2,Visitor,,5/15/2023,,5/14/2025,12152511
+1048,Warehouse,Temp wh9,2,Visitor,,5/15/2023,,5/14/2025,12163145
+19,"Doors 1-3, Lunch Room, Warehouse",Visitor 0011,2,Visitor,,5/15/2023,,5/14/2025,14225494
+47,"Doors 1-3, Warehouse",Visitor 0012,2,Visitor,,5/15/2023,,5/14/2025,14225488
+48,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Visitor 0013,2,Visitor,,5/15/2023,,5/14/2025,14225479
+49,"Doors 1-3, SOMAC",Visitor 0014,2,Visitor,,5/15/2023,,5/14/2025,14225511
+50,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Visitor 0015,2,Visitor,,5/15/2023,,5/14/2025,14225491
+51,"Doors 1-3, Warehouse",Visitor 0016,2,Visitor,,5/15/2023,,5/14/2025,14225489
+62375,Warehouse,Enrique Gómez López,1,Warehouse,,5/15/2023,,5/14/2025,12122375
+89,"Doors 1-3, Warehouse",Adrián Gómez.,1,Warehouse,,5/15/2023,,5/14/2025,12101032
+124,"Doors 1-3, Warehouse",Alcibiad Romero,1,Warehouse,,5/15/2023,,5/14/2025,12064598
+111,Warehouse,Alexander Lopez,1,Warehouse,,5/15/2023,,5/14/2025,10321654
+6372,Warehouse,Andrés Daniel Santiz Pérez,1,Warehouse,,5/15/2023,,5/14/2025,12157372
+20,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Armando,1,Warehouse,,5/15/2023,Y,5/14/2026,14306134
+44,Warehouse,Axel Gómez,1,Warehouse,,5/15/2023,,5/14/2025,12119789
+65,Warehouse,Benjamin Lopez,1,Warehouse,,5/15/2023,,5/14/2025,12002918
+25,Warehouse,Brandon Chavez,1,Warehouse,,5/15/2023,,5/14/2025,12207857
+119,Warehouse,Brayan Alonzo,1,Warehouse,,5/15/2023,,5/14/2025,06248339
+123,"Doors 1-3, Lunch Room, Warehouse",Carlos Garcia,1,Warehouse,,5/15/2023,,5/14/2025,12223984
+1015,"Doors 1-3, Warehouse",Carlos Mendez,1,Warehouse,,5/15/2023,,5/14/2025,11610777
+6120,"Doors 1-3, Lunch Room, Warehouse",Carlos Nunez,1,Warehouse,,5/15/2023,,5/14/2025,17648120
+110,"Doors 1-3, Lunch Room, SOMAC",Catherine Del Aguila,1,Warehouse,,5/15/2023,,5/14/2025,02321196
+21,Warehouse,Cesar Augusto,1,Warehouse,,5/15/2023,,5/14/2025,12161324
+35,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Cesar Santiz,1,Warehouse,,5/15/2023,,5/14/2025,17604447;22058600
+1012,Warehouse,Christian Arias,1,Warehouse,,5/15/2023,,5/14/2025,11615738
+64,Warehouse,Crecelio López,1,Warehouse,,5/15/2023,,5/14/2025,12141808
+17640,Warehouse,Edgar Alanis,1,Warehouse,,5/15/2023,,5/14/2025,12200640
+86,Warehouse,Eduardo Hernández,1,Warehouse,,5/15/2023,,5/14/2025,12057820
+121,"Doors 1-3, Warehouse",Eliam Lopez,1,Warehouse,,5/15/2023,,5/14/2025,12155762
+87,Warehouse,Eliseo Méndez,1,Warehouse,,5/15/2023,,5/14/2025,12115077
+1028,Warehouse,"Faustino B, Toto",1,Warehouse,,5/15/2023,,5/14/2025,12145552
+30,"Doors 1-3, Warehouse",Felix Chinas,1,Warehouse,,5/15/2023,,5/14/2025,12057411;14306238
+100,Warehouse,Fidencio Núñez,1,Warehouse,,5/15/2023,,5/14/2025,11152447
+116,Warehouse,Filib Hernandez,1,Warehouse,,5/15/2023,,5/14/2025,12023732
+63,Warehouse,Filibert Nunez,1,Warehouse,,5/15/2023,,5/14/2025,02321280
+1027,Warehouse,Filiberto G. Lopez,1,Warehouse,,5/15/2023,,5/14/2025,12227281
+606408,Warehouse,Floricento Gomez,1,Warehouse,,5/15/2023,,5/14/2025,12149980
+174,"Doors 1-3, Warehouse",Francisco Araujo,1,Warehouse,,5/15/2023,,5/14/2025,12131174;12024187
+6789,Warehouse,Gilberto Guerrero,1,Warehouse,,5/15/2023,,5/14/2025,11123789
+6711,Warehouse,gustín López Jiménez,1,Warehouse,,5/15/2023,,5/14/2025,12149711
+85,"Doors 1-3, Lunch Room, Warehouse",Hermelindo moreno,1,Warehouse,,5/15/2023,,5/14/2025,12157078
+98,Warehouse,HISAQEL MÉNDEZ PÉREZ,1,Warehouse,,5/15/2023,,5/14/2025,11121352
+6717,"Doors 1-3, SOMAC, Warehouse",Ivan Martinez,1,Warehouse,,5/15/2023,,5/14/2025,11334717
+117,Warehouse,J Carlos Jimenez,1,Warehouse,,5/15/2023,,5/14/2025,12220490
+1020,Warehouse,Jaime Juan Pedro,1,Warehouse,,5/15/2023,,5/14/2025,11713287
+14,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Jan-Pro,1,Warehouse,,5/15/2023,,5/14/2025,13413258
+1014,Warehouse,JERÓNIMO RODRIGUEZ,1,Warehouse,,5/15/2023,,5/14/2025,18108902
+1,"Doors 1-3, SOMAC, Warehouse",Jesus Rodriguesz,1,Warehouse,,5/15/2023,,5/14/2025,17602246
+125,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Jesus Seja,1,Warehouse,,4/2/2024,Y,4/2/2027,12233053
+61,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Jialin Xu,1,Warehouse,,5/15/2023,Y,5/14/2026,22132429
+1072,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Joanna Colina,2,Warehouse,,5/15/2023,Y,5/14/2026,12143144
+55,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Joey Z,1,Warehouse,,5/15/2023,,5/14/2025,11204166
+4617,Warehouse,Jorge Corona,1,Warehouse,,5/15/2023,,5/14/2025,11144617
+115,Warehouse,Jorge hernandez,1,Warehouse,,5/15/2023,,5/14/2025,12129730
+33,Warehouse,Jorge Tomas,1,Warehouse,,5/15/2023,,5/14/2025,12151706
+1024,Warehouse,Jose CANO,1,Warehouse,,5/15/2023,,5/14/2025,12203449
+83,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Jose Silva,1,Warehouse,,5/15/2023,,5/14/2025,06125842
+59,Warehouse,Kevin Gómez,1,Warehouse,,5/15/2023,,5/14/2025,11103343
+37,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Lazaro Xolo,1,Warehouse,,5/15/2023,,5/14/2025,06131657
+46,Warehouse,Leonardo Gomez,1,Warehouse,,5/15/2023,,5/14/2025,14214524
+31,Warehouse,Marcelino Gomez,1,Warehouse,,5/15/2023,,5/14/2025,02321289
+1026,Warehouse,Margarito Perez,1,Warehouse,,5/15/2023,,5/14/2025,12223804
+608,"Doors 1-3, Warehouse",Marino Jacinto,1,Warehouse,,5/15/2023,,5/14/2025,12220608
+64084,Warehouse,Matias Vargas,1,Warehouse,,5/15/2023,,5/14/2025,12154084
+99,Warehouse,Miguel Hernández,1,Warehouse,,5/15/2023,,5/14/2025,11202371
+54,Warehouse,Natalio Gómez,1,Warehouse,,5/15/2023,,5/14/2025,11211087
+90,Warehouse,Olaf de Jesús,1,Warehouse,,5/15/2023,,5/14/2025,18108897
+81,"Doors 1-3, Warehouse",Osvaldo Lopez,1,Warehouse,,5/15/2023,,5/14/2025,14214525
+109,Warehouse,Pedro Andrés Pedro,1,Warehouse,,5/15/2023,,5/14/2025,06048058
+9590,"Doors 1-3, Warehouse",Raul Garcia,1,Warehouse,,5/15/2023,,5/14/2025,12007959
+67,Warehouse,Raul Santiz Gomez,1,Warehouse,,5/15/2023,,5/14/2025,02321262
+6890,Warehouse,Roberto García,1,Warehouse,,5/15/2023,,5/14/2025,12132890
+82,Warehouse,Roberto Nunez,1,Warehouse,,5/15/2023,,5/14/2025,02321281
+443,Warehouse,Rodolfo Gomez,1,Warehouse,,5/15/2023,,5/14/2025,12215010
+32,Warehouse,Rodrigo Mendez,1,Warehouse,,5/15/2023,,5/14/2025,12132274
+1008,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Ryan Li,1,Warehouse,,5/15/2023,,5/14/2025,18108907;22112517
+96,Warehouse,Samuel Perez,1,Warehouse,,5/15/2023,,5/14/2025,12021599
+68811,"Doors 1-3, Lunch Room, SOMAC, Warehouse",San Juanita Orozco,1,Warehouse,,2/26/2024,Y,2/26/2027,12218811
+101,"Doors 1-3, Warehouse",Serafín Miranda,1,Warehouse,,5/15/2023,,5/14/2025,12207604
+1013,"Doors 1-3, Warehouse",SERGIO LUIS HERNANDEZ,1,Warehouse,,5/15/2023,,5/14/2025,11612090
+36,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Suping Chen,2,Warehouse,,5/15/2023,,5/14/2025,14225493
+118,Warehouse,Tomas Felipe,1,Warehouse,,5/15/2023,,5/14/2025,06060309
+557,"Doors 1-3, Warehouse",Venustiano Polito,1,Warehouse,,5/15/2023,,5/14/2025,12205057
+74,Warehouse,Victor Nunez,1,Warehouse,,5/15/2023,,5/14/2025,11061428
+34,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Vinicio Carrillo,1,Warehouse,,5/15/2023,,5/14/2025,12140308
+120,Warehouse,Wilber Hernandez,1,Warehouse,,5/15/2023,,5/14/2025,12123120
+57,"Doors 1-3, Warehouse",Jorge Marin,1,WarehouseManagement,,1/25/2024,Y,1/25/2027,22048377
+6880,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Marisol Hernandez,2,WarehouseManagement,,1/25/2024,Y,1/25/2027,11060880
+1019,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Paul Jung,1,WarehouseManagement,,1/25/2024,Y,1/25/2027,18102203
+27,"Doors 1-3, Lunch Room, SOMAC, Warehouse",Tina Wang,2,WarehouseManagement,,1/25/2024,Y,1/25/2027,14217814
+13,"Doors 1-3, SOMAC, Warehouse",Duka Namsraijav,2,WeShip,,1/25/2024,Y,1/25/2027,12141432
+2136,"Doors 1-3, SOMAC, Warehouse",Huizi Li,2,WeShip,,1/25/2024,Y,1/25/2027,12204436;22053668
+78,"Doors 1-3, SOMAC, Warehouse",Michelle Baatar,2,WeShip,,1/25/2024,Y,1/25/2027,02462603
+105,"Doors 1-3, SOMAC, Warehouse",Mike Batbold,1,WeShip,,1/25/2024,Y,1/25/2027,11340699
+42,"Doors 1-3, SOMAC, Warehouse",Nomin Ochir,2,WeShip,,3/6/2024,Y,3/6/2027,12159365
