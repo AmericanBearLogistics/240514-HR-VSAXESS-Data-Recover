@@ -27,8 +27,7 @@ If you encounter any issues or have questions, feel free to open an issue in thi
 
 ## Contributors
 
-- [canny.li]
-- [marina.wang]
-
+- Canny Li
+- Marina Wang
 Your contributions to improve and expand this project are welcome!
 
