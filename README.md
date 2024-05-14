@@ -2,11 +2,11 @@
 
 # VSAXESS Data Retrieval with Oracle APEX PLSQL
 
-This repository contains Oracle APEX PLSQL code to retrieve data from VSAXESS software. The data includes information on user management, device management, and user groups.
+This repository contains Oracle APEX PLSQL code to export data from the database and import it into VSAXESS software. The data includes information on user management, device management, and user groups.
 
 ## Background
 
-The project started at the end of April 2024 due to the admin desktop losing access to the saved password set by the previous HR personnel. Consequently, the IT team reinstalled the VSAXESS software and contacted the VSAXESS tech support group to reconnect devices. As part of the recovery process, historical datasets are being utilized to recover all managerial data.
+The project started at the end of April 2024 due to the admin desktop losing access to the saved password set by the previous HR personnel and will be closed by the end of the second week of May 2024. Consequently, the IT team reinstalled the VSAXESS software and contacted the VSAXESS tech support group to reconnect devices. As part of the recovery process, historical datasets are being utilized to recover all managerial data.
 
 ## Contents
 
